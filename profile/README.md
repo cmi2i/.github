@@ -10,7 +10,17 @@ Our intelligence and insights consistently make the difference in the success of
 
 This means the inherent risk involved in your most important IR, transactional and proxy events is reduced. You have something the other side doesn’t. 
 
-🌈 Contribution guidelines - how can the community get involved?  
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?  
+👩‍💻 **Useful resources - articles which helped us make the codebase**
+_Improving Your SQL_
+
+_Improving Your Python_
+
+_Metrics_
+
+_Data Science_
+
+_Other_
+
+
 🍿 Fun facts - what does your team eat for breakfast?  
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
